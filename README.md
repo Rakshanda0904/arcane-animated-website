@@ -1,7 +1,7 @@
 🌌 Arcane Animated Website – Interactive Visual Tribute to Arcane
 A cinematic, scroll-driven animated website inspired by Netflix’s Arcane — built to showcase creative frontend animation, storytelling through UI, and immersive web experiences.
 
-🔗 Live Demo: Visit Website
+🔗 Live Demo: https://arcane-animated-website-l2t50wwxi-rakshandas-projects-57d6e456.vercel.app/
 🔗 GitHub Repository: arcane-animated-website
 
 📌 Project Overview
