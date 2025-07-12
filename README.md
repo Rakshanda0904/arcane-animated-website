@@ -1,7 +1,8 @@
 🌌 Arcane Animated Website – Interactive Visual Tribute to Arcane
 A cinematic, scroll-driven animated website inspired by Netflix’s Arcane — built to showcase creative frontend animation, storytelling through UI, and immersive web experiences.
 
-🔗 Live Demo: https://arcane-animated-website-l2t50wwxi-rakshandas-projects-57d6e456.vercel.app/
+🔗 Live Demo: https://arcane-animated-website.vercel.app/
+
 🔗 GitHub Repository: arcane-animated-website
 
 📌 Project Overview
@@ -20,11 +21,17 @@ It explores:
 Ideal for roles in Frontend Development, Creative Tech, Game UI, or Digital Art & Interaction Design.
 
 🧩 Tech Stack
+
 Tool/Framework	Purpose
+
 HTML5 / CSS3	Core layout and styles
+
 JavaScript (Vanilla)	DOM manipulation & interactions
+
 GSAP (GreenSock)	Animations and transitions
-GSAP ScrollTrigger	Scroll-linked animation effects
+
+GSAP ScrollTrigger	Scroll-linked animation effect
+s
 Vercel	Hosting and deployment
 
 🎯 Key Highlights
@@ -66,6 +73,9 @@ cd arcane-animated-website
 🚀 Starter for Scroll-Driven Sites – Extend it into storytelling products or web-based art portfolios
 
 📬 Contact
+
 Built with passion by Rakshanda Patil
+
 📧 Email: rakshandapatil9904@gmail.com
+
 🌐 Linkedin: https://www.linkedin.com/in/rakshanda-patil-6b9479339/
