@@ -103,12 +103,10 @@ const Features = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
         <p className="font-circular-web text-lg text-blue-50">
-          Into the Metagame Layer
+          Into the a tale of sisterhood, rebellion, and power
         </p>
         <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">
-          Immerse yourself in a rich and ever-expanding universe where a vibrant
-          array of products converge into an interconnected overlay experience
-          on your world.
+          Two sisters. One shattered bond. In a world torn by invention and inequality, love turns to pain, and every choice leaves a scar.
         </p>
       </div>
 
@@ -117,10 +115,10 @@ const Features = () => (
           src="videos/feature-1.mp4"
           title={
             <>
-              radia<b>n</b>t
+              Betr<b>a</b>yal
             </>
           }
-          description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
+          description="Journey through a city divided by ambition and chaos. Follow the origins of iconic champions as their bonds are tested by power, betrayal, and war. This is a story of sisterhood, revolution, and destiny"
           isComingSoon
         />
       </BentoTilt>
@@ -131,11 +129,11 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                zig<b>m</b>a
+                P<b>o</b>wer
               </>
             }
-            description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
-            isComingSoon
+            description="In Piltover and Zaun, power isn't given — it's taken, forged through ambition, invention, and sacrifice."
+            
           />
         </BentoTilt>
 
@@ -144,11 +142,11 @@ const Features = () => (
             src="videos/feature-3.mp4"
             title={
               <>
-                n<b>e</b>xus
+                Em<b>o</b>tional
               </>
             }
-            description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
-            isComingSoon
+            description="Every battle scars the heart, as love and loyalty unravel under the weight of impossible choices."
+           
           />
         </BentoTilt>
 
@@ -157,18 +155,18 @@ const Features = () => (
             src="videos/feature-4.mp4"
             title={
               <>
-                az<b>u</b>l
+                M<b>a</b>dness
               </>
             }
-            description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
-            isComingSoon
+            description="In a world that broke her, chaos became her only clarity."
+            
           />
         </BentoTilt>
 
         <BentoTilt className="bento-tilt_2">
           <div className="flex size-full flex-col justify-between bg-violet-300 p-5">
             <h1 className="bento-title special-font max-w-64 text-black">
-              M<b>o</b>re co<b>m</b>ing s<b>o</b>on.
+              V<b>i</b>sual<b> M</b>ast<b>e</b>ry 
             </h1>
 
             <TiLocationArrow className="m-5 scale-[5] self-end" />
